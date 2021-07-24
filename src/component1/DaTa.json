@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "teo",
+        "mssv": "123456789",
+        "malop": "17DTH2A",
+        "tel": 123456789,
+        "quequan": "TPHCM",
+        "permission": 2
+    },
+    {
+        "id": 2,
+        "name": "toan",
+        "mssv": "123456789",
+        "malop": "17DTH2A",
+        "quequan": "TPHCM",
+        "tel": 123456789,
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name": "vu",
+        "mssv": "123456789",
+        "malop": "17DTH2A",
+        "quequan": "TPHCM",
+        "tel": 123456789,
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "minh",
+        "mssv": "123456789",
+        "malop": "17DTH2A",
+        "quequan": "TPHCM",
+        "tel": 123456789,
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "nguyen",
+        "mssv": "123456789",
+        "malop": "17DTH2A",
+        "quequan": "TPHCM",
+        "tel": 123456789,
+        "permission": 3
+    }
+]
